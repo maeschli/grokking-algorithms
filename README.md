@@ -1,6 +1,9 @@
+#grokking-algorithms
+
 Inspired by a [book](https://www.manning.com/books/grokking-algorithms) from Aditya Y. Bhargava (software engineer with a dual background in computer science and fine arts. He blogs on programming at [adit.io](http://adit.io/))
 
-## Grokking Algorithms. An illustrated guide for programmers and other curious people
+## Grokking Algorithms.
+## An illustrated guide for programmers and other curious people
 
 
 Just simple javascript implementation by me during the process of reading the following book.
